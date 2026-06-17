@@ -135,7 +135,7 @@ namespace VehicleListApp
             tail = temp;
         }
 
-        // Пошук через предикат (як на скріншоті 6)
+        // Пошук через предикат 
         public BidirectionalList Search(Func<VehicleRecord, bool> predicate)
         {
             if (predicate == null) throw new ArgumentNullException(nameof(predicate));
@@ -153,7 +153,6 @@ namespace VehicleListApp
             return results;
         }
 
-        // Серіалізація в JSON (як на скріншоті 6)
         public void Serialize(string filePath)
         {
             List<VehicleRecord> itemList = new List<VehicleRecord>();
