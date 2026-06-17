@@ -1,0 +1,22 @@
+[
+  {
+    "Type": 2,
+    "EngineCapacity": 1.2,
+    "IsElectricOrHybrid": true
+  },
+  {
+    "Type": 2,
+    "EngineCapacity": 1.7,
+    "IsElectricOrHybrid": true
+  },
+  {
+    "Type": 1,
+    "EngineCapacity": 2.5,
+    "IsElectricOrHybrid": true
+  },
+  {
+    "Type": 0,
+    "EngineCapacity": 1.5,
+    "IsElectricOrHybrid": true
+  }
+]

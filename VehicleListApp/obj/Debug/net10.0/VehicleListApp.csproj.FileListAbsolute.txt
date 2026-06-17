@@ -1,0 +1,14 @@
+/Users/daria/Practice1/VehicleListApp/bin/Debug/net10.0/VehicleListApp
+/Users/daria/Practice1/VehicleListApp/bin/Debug/net10.0/VehicleListApp.deps.json
+/Users/daria/Practice1/VehicleListApp/bin/Debug/net10.0/VehicleListApp.runtimeconfig.json
+/Users/daria/Practice1/VehicleListApp/bin/Debug/net10.0/VehicleListApp.dll
+/Users/daria/Practice1/VehicleListApp/bin/Debug/net10.0/VehicleListApp.pdb
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/VehicleListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/VehicleListApp.AssemblyInfoInputs.cache
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/VehicleListApp.AssemblyInfo.cs
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/VehicleListApp.csproj.CoreCompileInputs.cache
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/VehicleListApp.dll
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/refint/VehicleListApp.dll
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/VehicleListApp.pdb
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/VehicleListApp.genruntimeconfig.cache
+/Users/daria/Practice1/VehicleListApp/obj/Debug/net10.0/ref/VehicleListApp.dll
